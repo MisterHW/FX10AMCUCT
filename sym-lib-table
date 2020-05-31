@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name FX10A-168S-SV)(type Legacy)(uri ${KIPRJMOD}/libs/Hirose_FX10A-168S-SV.pretty/FX10A-168S-SV.lib)(options "")(descr ""))
+  (lib (name "FX10A-168P-SV(71)")(type Legacy)(uri "${KIPRJMOD}/libs/Hirose_FX10A-168P-SV(71).pretty/FX10A-168P-SV_71_.lib")(options "")(descr ""))
+)

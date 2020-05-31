@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "FX10A-168P-SV(71)")(type KiCad)(uri "${KIPRJMOD}/libs/Hirose_FX10A-168P-SV(71).pretty")(options "")(descr ""))
+  (lib (name FX10A-168S-SV)(type KiCad)(uri ${KIPRJMOD}/libs/Hirose_FX10A-168S-SV.pretty)(options "")(descr ""))
+)
