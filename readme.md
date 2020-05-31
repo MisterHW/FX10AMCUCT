@@ -16,7 +16,7 @@ Note: schematic symbols are representative of geometric arrangement of pins. The
 
 ### Board ###
 
-Note: The connector pitch has been set to 50.9 mm. According to [datasheet specifications](http://www.farnell.com/datasheets/2691101.pdf), a maximum position error of +/-0.3 mm in the XY-plane is acceptable for a board with mutiple connectors, which needs to cover NPTH drill tolerance and the loose fit of the alignment pegs on top of any potential design mismatch to a motherboard in question, so check whether the pitch needs to be 50.8 mm, 51.0 mm or something else. 
+Note: The connector pitch has been set to 50.9 mm. According to [datasheet specifications](http://www.farnell.com/datasheets/2691101.pdf), a maximum position error of +/-0.3 mm in the XY-plane is acceptable for a board with mutiple connectors, which needs to cover NPTH drill tolerance and the loose fit of the locating pegs on top of any potential design mismatch to a motherboard in question, so check whether the pitch needs to be 50.8 mm, 51.0 mm or something else. 
 
 ![layout view](doc/20200531_board.png)
 
