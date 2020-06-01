@@ -15,7 +15,7 @@ Furthermore, these connectors must not be tilted / sheared during unmating. They
 
 ![FX10 dimensions](doc/FX10_dimensions_tolerances.png)
 
-As can be seen in the drawing, the pegs both have 1.0 mm diameter. There is also a subtle chamfer on the pegs. Using a 1.0 mm drill diameter would cause an interference fit and may end up with a part that cannot be assembled, so the specified 1.1 mm is chosen on one side to presumably constrain the part position. 
+As can be seen in the drawing, the pegs both have 1.0 mm diameter. There is also a subtle chamfer on the pegs. Using a 1.0 mm drill diameter would cause an interference fit and may end up with a part that cannot be assembled, so the specified 1.1 mm is chosen on one side to presumably constrain the part position. The second hole has 1.2mm diameter to accommodate the +/- 0.1mm overall dimension uncertainty from manufacturing.
 
 Hint: If the designed PCB is required to mate with existing board hardware, it is recommended to visually inspect the existing reflow result for symmetry and representative alignment, followed by inserting mating connectors and measuring the peg inner and 
 outer distances on both sides with calipers or preferably inside and outside micrometers.
